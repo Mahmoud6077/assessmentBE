@@ -20,4 +20,3 @@ import { MailerModule } from './mailer/mailer.module';
 export class AppModule {}
 
 
-// MongooseModule.forRoot(process.env.MONGO_URI || 'mongodb+srv://hamoodalking8:os30iVa4AnaPwiAu@cluster1.vj93e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1'), // Use environment variable
